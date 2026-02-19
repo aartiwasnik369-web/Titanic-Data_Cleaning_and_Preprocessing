@@ -1,4 +1,4 @@
-# AI & ML Internship - Task 1
+# Task 1 - Titanic Data Cleaning and Preprocessing
 
 ## Task: Data Cleaning & Preprocessing
 
